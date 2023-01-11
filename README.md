@@ -25,6 +25,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP"/>
  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+ <img src="https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino"/>
  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=HTML5"/>
  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=CSS3"/>
