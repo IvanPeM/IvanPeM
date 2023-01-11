@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2>Languages and Tools</h2>
+
+<p align="left">
+ <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+ <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+ <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
+ <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript"/>
+ <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=Bootstrap"/>
+ <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP"/>
+ <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+ <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+ <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+ <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=HTML5"/>
+ <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=CSS3"/>
+</p>
