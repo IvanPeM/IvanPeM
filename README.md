@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **IvanPeM/IvanPeM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,10 +20,12 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
  <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript"/>
+ <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java"/>
  <img src="https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino"/>
  <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=Bootstrap"/>
  <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP"/>
  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+ <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=HTML5"/>
