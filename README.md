@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
  <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript"/>
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=Java"/>
  <img src="https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino"/>
  <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=Bootstrap"/>
  <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP"/>
